@@ -1,1 +1,1 @@
-alert("This is a file. A file it is.");
+document.write("This is a file. A file it is.");
